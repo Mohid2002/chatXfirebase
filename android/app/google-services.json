@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004060174526",
+    "project_id": "fir-xchat-69240",
+    "storage_bucket": "fir-xchat-69240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004060174526:android:af1a1d28d515f0514c56ef",
+        "android_client_info": {
+          "package_name": "com.example.firebasexchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhLLNzLW9YFFRFXUIFgy-Vbsgp_XIwD_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
